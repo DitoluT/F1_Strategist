@@ -2,6 +2,7 @@
  * @author Diego Toledo Luque
  * Double Degree in Mathematics and Computer Science
  * Analysis and Design of Algorithms
+ * @date 13/11/2023
  */
 
 public class OptimalSpeed {
